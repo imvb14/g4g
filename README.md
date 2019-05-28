@@ -1,5 +1,5 @@
 # g4g
-Geeksforgeeks  problems
+Geeksforgeeks   Data Structure problems
 
 *Array
 *Matrix
@@ -13,4 +13,4 @@ Geeksforgeeks  problems
 *Stack
 *queue
 *Tree
-
+.....
